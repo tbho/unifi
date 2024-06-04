@@ -7,3 +7,7 @@
 1. `cp mongo.env.example mongo.env`
 1. Fill in / generate envs
 1. Run docker container with `docker compose up -d` in background mode
+
+## Reset
+
+1. Reset by removing `./data` and `./config` folder
